@@ -16,7 +16,6 @@ A one-off installation service for this GPL licensed version is also available.
 
 The GPL licensed version of this project offered here is *not guaranteed* to be regularly maintained. It is made available here for demo/prototype purposes only, and should not be used in production (i.e. a "live" working environment) unless the administrator regularly patches project dependencies (i.e. PYPI & npm packages) with upstream security updates as and when released by vendors.
 
-If you would like to avail of the proprietary subscription to the application-as-a-service, or request other bespoke work on this project, please email to discuss: ssm@uplandsdynamic.com.
 
 ## Key Technologies for Server Component
 
